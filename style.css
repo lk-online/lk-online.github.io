@@ -25,7 +25,8 @@ a {
 }
 
 a:hover {
-    border-bottom-color: #555;
+    border-bottom-color: #795b0d;
+    color: #795b0d;
 }
 
 ul {
