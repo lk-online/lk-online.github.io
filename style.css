@@ -6,6 +6,10 @@ body {
     padding: 1vw 10vw;
 }
 
+h1 {
+    font-size: 2.5em;
+}
+
 h1, h2 {
     color: #555;
 }
